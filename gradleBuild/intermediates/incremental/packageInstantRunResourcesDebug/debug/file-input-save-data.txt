@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Mon Mar 19 12:32:33 CET 2018
+1.base=/Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/assets/debug
+2.path=graph.pb
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=/Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/assets/debug
+3.set=ASSET
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=optimized_mobilenet_plant_graph.pb
+count=4
+1.set=ASSET
+0.path=plant_labels.txt
+3.base=/Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/assets/debug
+0.set=ASSET
+0.base=/Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/assets/debug
+2.baseType=DIRECTORY
+1.path=labels.txt

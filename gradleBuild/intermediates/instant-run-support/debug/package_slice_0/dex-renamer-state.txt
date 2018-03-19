@@ -1,0 +1,4 @@
+#Mon Mar 19 11:48:34 CET 2018
+base.0=/Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/transforms/dexMerger/debug/19
+path.0=classes.dex
+renamed.0=classes.dex
