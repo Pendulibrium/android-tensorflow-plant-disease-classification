@@ -1,70 +1,70 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:18:1-48:12
+ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:18:1-48:12
 MERGED from [org.tensorflow:tensorflow-android:1.2.0-preview] /Users/wf-simonaivanova/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.2.0-preview.aar/646292c93bb45ecb3371e7b7e652d136/AndroidManifest.xml:2:1-8:12
 	package
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:19:5-34
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:19:5-34
 	xmlns:android
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:18:11-69
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:18:11-69
 uses-permission#android.permission.CAMERA
-ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:21:5-65
+ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:21:5-65
 	android:name
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:21:22-62
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:21:22-62
 uses-feature#android.hardware.camera
-ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:22:5-60
+ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:22:5-60
 	android:name
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:22:19-57
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:22:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:23:5-70
+ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:23:5-70
 	android:name
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:23:19-67
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:23:19-67
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:24:5-80
+ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:24:5-80
 	android:name
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:24:22-78
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:24:22-78
 uses-sdk
-ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:26:5-28:41
+ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:26:5-28:41
 	android:targetSdkVersion
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:28:9-38
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:28:9-38
 	android:minSdkVersion
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:27:9-35
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:27:9-35
 application
-ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:30:5-46:19
+ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:30:5-46:19
 MERGED from [org.tensorflow:tensorflow-android:1.2.0-preview] /Users/wf-simonaivanova/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.2.0-preview.aar/646292c93bb45ecb3371e7b7e652d136/AndroidManifest.xml:5:5-6:19
 MERGED from [org.tensorflow:tensorflow-android:1.2.0-preview] /Users/wf-simonaivanova/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.2.0-preview.aar/646292c93bb45ecb3371e7b7e652d136/AndroidManifest.xml:5:5-6:19
 	android:label
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:32:9-41
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:32:9-41
 	android:debuggable
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:31:9-34
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:31:9-34
 	android:icon
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:33:9-45
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:33:9-45
 	android:allowBackup
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:30:18-44
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:30:18-44
 	android:theme
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:34:9-45
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:34:9-45
 activity#org.tensorflow.demo.ClassifierActivity
-ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:36:9-39:20
+ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:36:9-39:20
 	android:screenOrientation
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:37:19-55
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:37:19-55
 	android:label
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:38:19-71
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:38:19-71
 	android:name
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:36:19-72
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:36:19-72
 activity#org.tensorflow.demo.CameraRollActivity
-ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:40:9-45:20
+ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:40:9-45:20
 	android:name
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:40:19-53
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:40:19-53
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:41:13-44:29
+ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:41:13-44:29
 action#android.intent.action.MAIN
-ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:42:13-65
+ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:42:13-65
 	android:name
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:42:21-62
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:42:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:43:13-73
+ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:43:13-73
 	android:name
-		ADDED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:43:23-70
+		ADDED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:43:23-70
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:18:1-48:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+IMPLIED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:18:1-48:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:18:1-48:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/AndroidManifest.xml:18:1-48:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE

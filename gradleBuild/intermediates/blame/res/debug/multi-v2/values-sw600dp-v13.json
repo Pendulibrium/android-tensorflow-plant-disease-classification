@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/res/values-sw600dp/template-dimens.xml",
+                    "source": "/Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/res/values-sw600dp/template-dimens.xml",
                     "from": {
                         "startLines": "20,21",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/res/values-sw600dp/template-styles.xml",
+                    "source": "/Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/res/values-sw600dp/template-styles.xml",
                     "from": {
                         "startLines": "18",
                         "startColumns": "4",

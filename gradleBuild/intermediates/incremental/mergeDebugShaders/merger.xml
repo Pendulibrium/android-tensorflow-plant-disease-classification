@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/wf-simonaivanova/tensorflow-for-poets-2/android/tfmobile/build-types/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/wf-simonaivanova/android-tensorflow-plant-disease-classification/build-types/debug/shaders"/></dataSet></merger>
